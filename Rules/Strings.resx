@@ -846,6 +846,18 @@
   <data name="UseCompatibleCmdletsError" xml:space="preserve">
     <value>'{0}' is not compatible with PowerShell edition '{1}', version '{2}' and OS '{3}'</value>
   </data>
+  <data name="UseCompatibleTypesName" xml:space="preserve">
+    <value>UseCompatibleTypes</value>
+  </data>
+  <data name="UseCompatibleTypesCommonName" xml:space="preserve">
+    <value>Use compatible types</value>
+  </data>
+  <data name="UseCompatibleTypesDescription" xml:space="preserve">
+    <value>Use types compatible with the given PowerShell version and edition and operating system</value>
+  </data>
+  <data name="UseCompatibleTypesError" xml:space="preserve">
+    <value>'{0}' is not compatible with PowerShell edition '{1}', version '{2}' and OS '{3}'</value>
+  </data>
   <data name="AvoidGlobalFunctionsCommonName" xml:space="preserve">
     <value>Avoid global functiosn and aliases</value>
   </data>
