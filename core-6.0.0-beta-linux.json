@@ -1,0 +1,9 @@
+﻿
+Name                           Value                                                                       
+----                           -----                                                                       
+Edition                        {OS, PowerShellEdition, PowerShellVersion}                                  
+Modules                        {@{Name=Microsoft.PowerShell.Archive; Version=1.1.0.0; ExportedCommands=S...
+Types                          {@{Name=OperationTelemetryExtensions; Namespace=Microsoft.ApplicationInsi...
+SchemaVersion                  0.0.1                                                                       
+
+
